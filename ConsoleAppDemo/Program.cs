@@ -6,7 +6,9 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Salom dunyo!");
-            Console.WriteLine("Salom C#!");
+
+
+            Console.WriteLine("Yangi branch qo'shildi!");
         }
     }
 }
